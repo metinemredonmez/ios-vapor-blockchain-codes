@@ -1,0 +1,4 @@
+module CNIODarwin {
+    umbrella "/Users/azamsharp/Desktop/Exercise Files/Blockchain-Vapor/resolving-conflicts/end/blockchain-web-api/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIODarwin/include"
+    export *
+}
